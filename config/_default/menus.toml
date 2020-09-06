@@ -31,6 +31,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-  name = "CV"
-  url = " https://www.dropbox.com/s/gyd9xxywr8q0uoi/Boyuan%20Zhang_cv.pdf?dl=0.pdf"
-  weight = 70
+   name = "CV"
+   url = "files/cv.pdf"
+   weight = 70
